@@ -1,0 +1,6 @@
+apiVersion: v2
+name: secret-only
+description: A Helm chart to deploy an empty secret into Kubernetes. Used as a workaround  until crossplane-kubernetes can ref existing objects.
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
