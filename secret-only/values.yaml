@@ -1,2 +1,4 @@
 secret:
+  name: "secret"
+  namespace: "default"
   data: {}
