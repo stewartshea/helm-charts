@@ -1,0 +1,2 @@
+Use this with crossplane to distribute an existing secret on the controlplane to a remote cluster with the use of provider-helm. 
+This is a workaround until this is merged, or the functionality exists to ref exising  objects not managed by crossplane:  https://github.com/crossplane-contrib/provider-kubernetes/pulls
