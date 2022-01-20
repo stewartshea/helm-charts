@@ -1,4 +1,7 @@
 secret:
   name: "secret"
   namespace: "default"
-  data: {}
+  data:
+    identity: ""
+    identity_pub: ""
+    known_hosts: ""
