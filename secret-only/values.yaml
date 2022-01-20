@@ -3,5 +3,5 @@ secret:
   namespace: "default"
   data:
     identity: ""
-    identity_pub: ""
+    identity_butt: ""
     known_hosts: ""
