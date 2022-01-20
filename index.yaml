@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  secret-only:
+  - apiVersion: v2
+    created: "2022-01-20T17:01:13.200060078Z"
+    description: A Helm chart to deploy an empty secret into Kubernetes. Used as a
+      workaround  until crossplane-kubernetes can ref existing objects.
+    digest: 537233510b2eb2f5cf8ccc03a8f906dc6651ea471d92151121a263d56c586477
+    name: secret-only
+    type: application
+    urls:
+    - https://stewartshea.github.io/helm-charts/secret-only-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-01-20T17:01:13.198885757Z"
